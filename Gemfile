@@ -10,6 +10,8 @@ group :development, :test do
   gem 'rubocop', '1.20'
   gem 'sinatra'
   gem 'rack'
+  gem 'sinatra-contrib'
+
 end
 
 # rvm @global do gem install webrick
